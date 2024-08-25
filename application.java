@@ -5,7 +5,12 @@ public class RectangleAreaCalculator {
         double area = length * width;
         return area;
     }
+
 #feature202 changes on reports module by ethan in oct2023
+
+    
+#feature201 changes by developer vivek for module paymentgateway oct2023
+
 public class MathOperations {
     // Static method
     public static int add(int a, int b) {
@@ -17,7 +22,11 @@ public class MathOperations {
         return a * b;
     }
 }
+
 #end of feature202 changes
+
+#end of feature201 code
+
 
     public static void main(String[] args) {
         // Example of using the method
